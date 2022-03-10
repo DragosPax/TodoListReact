@@ -1,0 +1,21 @@
+.all2{
+    text-align:center;  
+    left:400px;
+}
+
+.list{
+    top:30px;
+    
+   position:relative;
+    display: inline-block;
+     
+    height:200px;
+    
+
+}
+.item{
+    background-color: #77DF79;
+    left:400px;
+    width:154px;
+    
+}
